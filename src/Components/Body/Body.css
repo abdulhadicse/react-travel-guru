@@ -1,0 +1,49 @@
+.main-body{
+    min-height: 50vh;
+    margin-top: 100px;
+}
+.main-body h1{
+    font-size: 100px;
+    text-transform: uppercase;
+}
+
+.main-body .destination-info{
+    color: white;
+}
+.main-body .booking{
+    width: 150px;
+    border: none;
+    outline: none;
+    background: #F9A51A;
+    padding: 10px 25px;
+    border-radius: 7px;
+    font-weight: 500;
+}
+.main-body .row{
+    min-height: 50vh;
+}
+.main-body .card{
+    min-height: 400px;
+    background: transparent;
+    margin: 10px 10px;
+    min-width: 250px;
+    background-position: center;
+    background-size: cover;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    color: white;
+}
+.main-body .one{
+    background-image: url('../../Resources//Image/Rectangle28.png');
+}
+.main-body .two{
+    background-image: url('../../Resources//Image/Sreemongol.png');
+}
+.main-body .three{
+    background-image: url('../../Resources//Image/sundorbon.png');
+}
+.main-body .four{
+    background-image: url('../../Resources//Image/Sajek.png');
+}
+/* .main-body */

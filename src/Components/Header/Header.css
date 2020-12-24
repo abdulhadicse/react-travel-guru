@@ -1,0 +1,27 @@
+.navbar{
+    background: transparent !important;
+}
+.navbar .main-logo{
+    width: 120px;    
+    background: rgba(255,255,255,0.5);
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 0 5px;
+}
+.navbar-nav li{
+    margin: 0 25px;
+    color: white;
+    cursor: pointer;
+}
+.navbar .login{
+    padding: 7px 25px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-weight: 500;
+    background: #F9A51A;
+}
+.navbar .search{
+    background: rgba(255,255,255,0.15);
+    border: 1px solid white;
+}
